@@ -1,0 +1,4 @@
+1. api theke data ene then map kore ekta ekta kore dekano aita bhujte parchi 
+2. button e click korle cart jeye add hobe seita bhujte pari nai halka bhujte parchi 
+3. localstorage er concept ta ekono clear hote pari ni aro time dite hobe 
+4. kichu animation korano hoyeche ja abr dekte hobe 
